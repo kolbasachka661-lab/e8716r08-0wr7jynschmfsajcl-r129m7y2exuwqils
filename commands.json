@@ -1,4 +1,12 @@
 {
-    "version": 1,
-    "commands": []
+    "version": 2,
+    "commands": [
+        {
+            "id": "test_001",
+            "type": "notify",
+            "title": "Zenin",
+            "text": "Привет от владельца!",
+            "time": 5
+        }
+    ]
 }
